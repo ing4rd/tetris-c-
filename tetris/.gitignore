@@ -1,0 +1,16 @@
+# Compiled files
+*.o
+*.out
+*.exe
+*.dll
+*.so
+*.dylib
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Compiled directories
+obj/
+
+tetris
